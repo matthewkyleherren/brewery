@@ -536,7 +536,7 @@ window.__NUXT__ = (function (
                   ],
                 },
                 bgVideoMobile:
-                  "\u002Fassets\u002Fvideos\u002F05.mp4,
+                  "\u002Fassets\u002Fvideos\u002F05.mp4",
                 videoThumbnailMobile: {
                   metadata: { tags: [] },
                   sys: {
@@ -2043,7 +2043,7 @@ window.__NUXT__ = (function (
   "\u002Fassets\u002Fvideos\u002F03.mp4",
   "19mInOh24DU75KwSzLBetL",
   "28JlM5jVBMnxdvZJuRUhs1",
-  "\u002Fassets\u002Fvideos\u002F04.mp4,
+  "\u002Fassets\u002Fvideos\u002F04.mp4",
   "2X3e88MulzCi5iYpcseuow",
   "5VmjuvNJg1MPuTNvPctXPe",
   "2023-10-17T15:12:00.334Z",
