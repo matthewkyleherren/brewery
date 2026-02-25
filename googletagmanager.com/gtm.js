@@ -43,7 +43,7 @@
       name="robots"
       content="noindex, nofollow"
     />
-    <title>AIRMADE™ System</title>
+    <title>SIRBREW™ System</title>
     <script data-n-head="1" data-hid="gtm-script">
       window._gtm_init ||
         ((window._gtm_init = 1),
@@ -200,9 +200,9 @@
       window.__NUXT__ = {
         config: {
           DEV: !1,
-          BASE_URL: "https://airmade.aircompany.com",
+          BASE_URL: "https://brew.sir.beer",
           LOCAL: !1,
-          GA4_ID: "G-6CVVQQ2LPH",
+          GA4_ID: "G-6CVVQD2LPH",
           _app: { basePath: "/", assetsPath: "/_nuxt/", cdnURL: null },
         },
         staticAssetsBase: "/_nuxt/static/1701198138",

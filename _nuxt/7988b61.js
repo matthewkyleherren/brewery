@@ -1384,7 +1384,7 @@
             DEV: n,
             BASE_URL: o,
             LOCAL: r,
-            GA4_ID: "G-6CVVQQ2LPH",
+            GA4_ID: "G-6CVVQD2LPH",
           },
           components: !0,
           css: ["~/assets/scss/main.scss"],

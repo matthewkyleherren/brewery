@@ -1973,7 +1973,7 @@ window.__NUXT__ = (function (
       DEV: F,
       BASE_URL: S,
       LOCAL: F,
-      GA4_ID: "G-6CVVQQ2LPH",
+      GA4_ID: "G-6CVVQD2LPH",
       _app: { basePath: a_, assetsPath: "\u002F_nuxt\u002F", cdnURL: L },
     },
   };
