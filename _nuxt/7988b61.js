@@ -1763,7 +1763,7 @@
                               staticClass: "loader-button",
                               on: { click: t.onClickButton },
                             },
-                            [t._v("\n        Enter The Factory\n      ")],
+                            [t._v("\n        Enter The Brewery\n      ")],
                           ),
                         ]),
                       ],
@@ -1774,7 +1774,7 @@
                   ? e("div", { staticClass: "header-navcentered-bg" }, [
                       e("video", {
                         attrs: {
-                          src: "/assets/videos/587668291.mp4",
+                          src: "/assets/videos/01.mp4",
                           playsinline: "",
                           _autoplay: "",
                           muted: "",

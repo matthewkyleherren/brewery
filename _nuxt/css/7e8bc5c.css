@@ -1961,3 +1961,7 @@ nav.navbottom .is-flipping {
   top: -100px;
   top: calc(var(--extended-by) * -1);
 }
+
+.card-film {
+  display: none;
+}
